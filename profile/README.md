@@ -1,5 +1,6 @@
  <h1 align="center">
- <img src="https://avatars.githubusercontent.com/u/127641386?s=200&v=4" />
+ <img width="320" src="https://raw.githubusercontent.com/Dibble-coin/Welcome/main/logo.svg" /> 
+
  
  # :seedling:	 **DibbleCoin** will revolutionize environmental preservation. :seedling:	
 </h1>
